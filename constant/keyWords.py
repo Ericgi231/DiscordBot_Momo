@@ -1,0 +1,16 @@
+JARVIS = "jarvis"
+HELP = "help"
+HELLO = ["hello", "hi"]
+THANK = "thank"
+WHAT = "what"
+WHEN = "when"
+GOOGLE = "google"
+WIKI = "wiki"
+MAN = "man"
+SHOW = ["show", "post"]
+ME = "me"
+MEME = ["meme", "memes"]
+PORN = ["porn", "porns"]
+PLEASE = "please"
+WILL = ["will", "am", "can", "is", "are"]
+MANY = ["how many", "what quantity", "what number", "number"]
